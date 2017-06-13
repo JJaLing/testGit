@@ -1,6 +1,2 @@
-testmodule/*
-!testmodule/noignore.js
-!testmodule/ss.js
- ignorethis.js
 gg/*
 .DS_Store
