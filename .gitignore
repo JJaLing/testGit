@@ -1,7 +1,5 @@
 testmodule/*
 !testmodule/noignore.js
-!testmodule/nbb.css
-!testmodule/ss.js
- ignorethis.js
 gg/*
 .DS_Store
+ignorethis.js
